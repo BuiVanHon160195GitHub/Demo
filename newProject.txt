@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 hi.HelloWord
 Bui van Hon
+=======
+>>>>>>> parent of eaea703... Them noi dung
